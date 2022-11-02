@@ -81,7 +81,7 @@ sns.histplot(x='Postal Code',data=df)
 ![output](9.png)
 
 ### DISTRIBUTION PLOT
-![output)(10.png)
+![output](10.png)
 
 ### HISTOGRAM PLOT
 ![output](11.png)
